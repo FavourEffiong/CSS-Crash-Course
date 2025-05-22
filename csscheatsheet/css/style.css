@@ -57,7 +57,7 @@ body{
 }
 
 .box-2{
-    border: 3px dotted #ccc;
+    border: 3px solid #ccc;
     padding: 20px;
     margin: 20px 0;
 }
